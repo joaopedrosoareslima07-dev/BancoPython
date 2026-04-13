@@ -73,7 +73,7 @@ while True:
                         
                 case 5:
                     detail()
-                    print("Saindo....")
+                    print("Saindo.... Obrigado pela preferência")
                     break
                 case _:
                     print("Valor não encontrado!")  
